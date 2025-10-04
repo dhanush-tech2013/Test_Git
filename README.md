@@ -1,2 +1,1 @@
-# Test_Git
-print("hello world")
+file = open("chat.txt", "r")
